@@ -5,7 +5,7 @@ private double preco;
 public void setEndereco(String endereco){
     this.endereco=endereco;
 }
-public String getEndereco(String endereco){
+public String getEndereco(){
     return this.endereco;
 }
 public void setPreco(double preco){
